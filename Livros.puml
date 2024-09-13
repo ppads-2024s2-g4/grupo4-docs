@@ -1,0 +1,13 @@
+class Livros {
+    nome
+    autor
+    editora
+    
+}
+
+object "<u>Livro 1</u>" as siga {
+    nome: "Senhor dos aneis"
+    autor: "autor1" 
+    editora: "editora1"
+}
+
